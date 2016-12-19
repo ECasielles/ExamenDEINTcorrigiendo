@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Offerings</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="appTitle">Configuración Offering</string>
+    <string name="txvShowRelevantMain">Mostrar la importancia de las ofertas:</string>
+    <string name="txvSportsMain">Mostrar ofertas de deportes:</string>
+    <string name="txvElectronicsMain">Mostrar ofertas de electrónica:</string>
+    <string name="txvHomeMain">Mostrar ofertas de hogar:</string>
+    <string name="noOfferDialog">Debe seleccionar al menos un tipo de oferta</string>
+</resources>
